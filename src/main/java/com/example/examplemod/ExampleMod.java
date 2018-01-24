@@ -1,4 +1,4 @@
-package com.example.beepboop;
+package com.example.examplemod;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
